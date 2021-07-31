@@ -1,6 +1,6 @@
 
 
-    👋 Hi, I’m @anupreeet
+    👋 Hi, I’m @anupreet
     👀 I’m interested in enhanching my algorithmic skills.
     🌱 I’m currently learning algorithms, web development , French language.
     💞️ I’m looking to collaborate on web development and java projects.
